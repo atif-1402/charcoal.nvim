@@ -1,4 +1,4 @@
-### The original repository was deleted by the creator. <br> This repository exists as a community backup and continuation of `charcoal.nvim`.
+### The original `charcoal.nvim` repository was deleted by the creator. <br> This repository exists as a community backup and continuation of the project.
 
 ### Installation
 
@@ -18,6 +18,8 @@
 }
 ```
 ---
+
+## Original Readme >>
 
 <div align="center">
     <h1>charcoal.nvim</h1>

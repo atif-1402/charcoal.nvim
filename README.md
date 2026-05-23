@@ -1,3 +1,24 @@
+### The original repository was deleted by the creator. <br> This repository exists as a community backup and continuation of `charcoal.nvim`.
+
+### Installation
+
+```lua
+{
+  "atif-1402/charcoal.nvim",
+  lazy = false,
+  priority = 1000,
+
+  config = function()
+    require("charcoal").setup({
+      monochrome = false,
+    })
+
+    vim.cmd("colorscheme charcoal")
+  end,
+}
+```
+---
+
 <div align="center">
     <h1>charcoal.nvim</h1>
     <p>A warm and simple colorscheme.</p>
